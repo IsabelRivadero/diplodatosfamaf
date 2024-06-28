@@ -1,0 +1,15 @@
+artifact_uri: file:///home/isanti/Documentos/isa_mi_reina_esplendorosa/%20computacion/1-cs%20de%20la%20computacion%20/1.1-diplodatos/7-deeplearning/AprendizajeProfundo-master/mlruns/1/d8e3c6de8e8f4e6cbc89c3750ec3283a/artifacts
+end_time: 1570244540685
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d8e3c6de8e8f4e6cbc89c3750ec3283a
+run_uuid: d8e3c6de8e8f4e6cbc89c3750ec3283a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1570244523795
+status: 3
+tags: []
+user_id: isanti
